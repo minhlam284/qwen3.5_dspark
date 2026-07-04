@@ -6,7 +6,6 @@ venv/
 .cache/
 .DS_Store
 
-data/
 models/
 model/
 checkpoints/
